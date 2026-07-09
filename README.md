@@ -77,14 +77,14 @@ fun_fact: I debug better with coffee ☕ in hand
 <tr>
 <td width="50%" valign="top">
 
-**🔹 [Project One](https://github.com/Sreeharicse/project-one)**
+**🔹 [Project One](https://github.com/Sreeharicse/Appraisal-app)**
 Short description of what it does, the stack used, and what problem it solves.
 `React` `Node.js` `MongoDB`
 
 </td>
 <td width="50%" valign="top">
 
-**🔹 [Project Two](https://github.com/Sreeharicse/project-two)**
+**🔹 [Project Two](https://github.com/Sreeharicse/Uk_Clothing)**
 Short description of what it does, the stack used, and what problem it solves.
 `Express` `JWT` `REST API`
 
