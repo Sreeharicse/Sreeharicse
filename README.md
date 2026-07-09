@@ -88,7 +88,7 @@ MongoDB SQL AI Agents
 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreeharicse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreeharicse&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeharicse&layout=compact&theme=tokyonight&hide_border=true" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeharicse&theme=tokyonight&hide_border=true" />
@@ -106,15 +106,6 @@ MongoDB SQL AI Agents
 Show Image
 
 </div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
-</div>
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Sreeharicse&color=8A63D2&style=for-the-badge&label=Profile+Views)
-
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
 </div>
