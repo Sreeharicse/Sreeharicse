@@ -101,7 +101,7 @@ React Node.js SQL
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sreeharicse&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeharicse&layout=compact&theme=tokyonight&hide_border=true" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreeharicse&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Sreeharicse&theme=tokyonight&hide_border=true" />
 </div>
 <br/>
 <!-- ===================== CONTRIBUTION GRAPH ===================== -->
