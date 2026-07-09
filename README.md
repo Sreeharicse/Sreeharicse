@@ -19,12 +19,12 @@ Show Image
 <!-- ===================== ABOUT ME ===================== -->
 🧑‍💻 About Me
 
-yamlname: Sreehari
-role: Full Stack Developer
-background: Completed Java course, now building full-stack applications
-focus: React · Node.js · Supabase · MongoDB · SQL
-edge: Leveraging AI agents (Claude, Antigravity) to design & ship apps faster
-currently: Exploring AI-assisted development workflows
+Name: Sreehari
+Role: Full Stack Developer
+Background: Completed Java course, now building full-stack applications
+Focus: React · Node.js · Supabase · MongoDB · SQL
+Edge: Leveraging AI agents (Claude, Antigravity) to design & ship apps faster
+Currently: Exploring AI-assisted development workflows
 
 
 🎓 Completed my Java course as the foundation of my programming journey
@@ -70,15 +70,15 @@ Show Image
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-🔹 Project One
-Full-stack application built with React + Node.js, using Supabase/MongoDB for data and AI agents to speed up development.
-React Node.js Supabase
+🔹 News App
+A full-stack news application with user authentication, built and deployed as a current project.
+React Node.js Supabase/MongoDB
 
 </td>
 <td width="50%" valign="top">
-🔹 Project Two
-Short description of the project — stack used and problem it solves.
-MongoDB SQL AI Agents
+🔹 Appraisal App
+A full-stack employee appraisal management system with login-based access, deployed on Render.
+React Node.js SQL
 
 </td>
 </tr>
