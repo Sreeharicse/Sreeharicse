@@ -19,12 +19,12 @@ Show Image
 <!-- ===================== ABOUT ME ===================== -->
 🧑‍💻 About Me
 
-Name: Sreehari
-Role: Full Stack Developer
-Background: Completed Java course, now building full-stack applications
-Focus: React · Node.js · Supabase · MongoDB · SQL
-Edge: Leveraging AI agents (Claude, Antigravity) to design & ship apps faster
-Currently: Exploring AI-assisted development workflows
+yamlname: Sreehari
+role: Full Stack Developer
+background: Completed Java course, now building full-stack applications
+focus: React · Node.js · Supabase · MongoDB · SQL
+edge: Leveraging AI agents (Claude, Antigravity) to design & ship apps faster
+currently: Exploring AI-assisted development workflows
 
 
 🎓 Completed my Java course as the foundation of my programming journey
@@ -74,11 +74,21 @@ Show Image
 A full-stack news application with user authentication, built and deployed as a current project.
 React Node.js Supabase/MongoDB
 
+
+🔒 Private repo
+
+
+
 </td>
 <td width="50%" valign="top">
 🔹 Appraisal App
 A full-stack employee appraisal management system with login-based access, deployed on Render.
 React Node.js SQL
+
+
+📂 View Source
+
+
 
 </td>
 </tr>
@@ -98,7 +108,7 @@ React Node.js SQL
 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreeharicse&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://ghchart.rshah.org/8A63D2/Sreeharicse" alt="Sreehari's GitHub Contribution Graph" width="100%"/>
 </div>
 <br/>
 <!-- ===================== VISITOR BADGE ===================== -->
