@@ -22,10 +22,12 @@ jobs:
           mkdir -p .github/activity
           echo "Last automated update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" > .github/activity/last-update.md
 
-      - name: Refresh streak badge cache-buster in README
+      - name: Refresh all badge cache-busters in README
         run: |
           TODAY=$(date -u '+%Y%m%d')
           sed -i -E "s/(streak-stats\.demolab\.com[^\"']*&r=)[0-9]+/\1${TODAY}/" README.md
+          sed -i -E "s/(helio-github-stats\.vercel\.app\/api\?[^\"']*&r=)[0-9]+/\1${TODAY}/" README.md
+          sed -i -E "s#(helio-github-stats\.vercel\.app/api/top-langs/\?[^\"']*&r=)[0-9]+#\1${TODAY}#" README.md
 
       - name: Commit and push changes
         run: |
