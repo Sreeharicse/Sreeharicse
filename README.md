@@ -116,7 +116,7 @@ A full-stack employee appraisal management system with login-based access, deplo
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Sreeharicse&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Sreeharicse&theme=tokyonight&hide_border=true&r=20260710" />
 
 </div>
 
