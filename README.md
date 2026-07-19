@@ -111,12 +111,12 @@ A full-stack employee appraisal management system with login-based access, deplo
 
 <div align="center">
 
-<img height="165" src="https://helio-github-stats.vercel.app/api?username=Sreeharicse&show_icons=true&theme=tokyonight&hide_border=true&r=20260712" />
-<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Sreeharicse&layout=compact&theme=tokyonight&hide_border=true&r=20260712" />
+<img height="165" src="https://helio-github-stats.vercel.app/api?username=Sreeharicse&show_icons=true&theme=tokyonight&hide_border=true&r=20260719" />
+<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Sreeharicse&layout=compact&theme=tokyonight&hide_border=true&r=20260719" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Sreeharicse&theme=tokyonight&hide_border=true&r=20260712" />
+<img src="https://streak-stats.demolab.com/?user=Sreeharicse&theme=tokyonight&hide_border=true&r=20260719" />
 
 </div>
 
